@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Paul Laurent Nyobe Lipot 👋  
 
-<!--
-**Nypal/Nypal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Aspiring Cybersecurity Professional**  
+I am passionate about technology, securing systems, and solving complex challenges.
 
-Here are some ideas to get you started:
+🌱 **What I’m Currently Learning:**  
+- Cybersecurity fundamentals (CompTIA Security+, Linux, Network Security)  
+- Python for automation and security tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Projects:**  
+- [My Cybersecurity Portfolio](#) – Hands-on projects with threat analysis, vulnerability detection, and Linux tools.  
+- [Automation Scripts](#) – Automating security tasks using Python.  
+
+🎯 **Certifications:**  
+- CompTIA Security+  
+- Linux Essentials  
+- Introduction to Cybersecurity  
+
+📫 **Find Me Here:**  
+- 🌐 [My Website](https://cyberdefenderpaul.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/paul-laurent-nyobe-lipot)  
