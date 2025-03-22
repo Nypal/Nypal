@@ -10,7 +10,7 @@ I am passionate about technology, securing systems, and solving complex challeng
 🛠️ **Projects:**  
 - [My Cybersecurity Portfolio](#) – Hands-on projects with threat analysis, vulnerability detection, and Linux tools.  
 - [Automation Scripts](#) – Automating security tasks using Python.
-- [Basics of penetration testing](https://github.com/Nypal/basics-of-Penetration-Testing/tree/main/Fawn%20–%20FTP%20Anonymous%20Access%20Exploitation) - See how i am connecting FTP, SMB, Telnet, Rsync and RDP anonymously.
+- [Basics of penetration testing](https://github.com/Nypal/basics-of-Penetration-Testing/blob/main/Fawn%20–%20FTP%20Anonymous%20Access%20Exploitation.md) - See how i am connecting FTP, SMB, Telnet, Rsync and RDP anonymously.
 See how i use Nmap to identify open ports.
 how i am connected to a MongoDB server.
 
