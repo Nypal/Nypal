@@ -13,6 +13,7 @@ I am passionate about technology, securing systems, and solving complex challeng
 - [Basics of penetration testing](https://github.com/Nypal/basics-of-Penetration-Testing/blob/main/README.md) - See how i am connecting FTP, SMB, Telnet, Rsync and RDP anonymously.
 See how i use Nmap to identify open ports.
 how i am connected to a MongoDB server.
+- [AI voice reading website](#) – help student to read text.
 
 🎯 **Certifications:**  
 - CompTIA Security+  
