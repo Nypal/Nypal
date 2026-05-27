@@ -1,11 +1,10 @@
 # Hi, I'm Paul Laurent Nyobe Lipot 👋
 
-🔐 **Aspiring Cybersecurity Professional**
-I am passionate about technology, securing systems, and solving complex challenges.
+🔐 **IT Support Engineer | Systems Administration | Networking**
+Passionate about technology, securing systems, and solving complex challenges.
 
-🌱 **What I'm Currently Learning:**
-- Cybersecurity fundamentals (CompTIA Security+, Linux, Network Security)
-- Python for automation and security tools
+🌱 **Currently Learning:**
+- CompTIA A+, Linux, Network Security, Cisco Networking
 
 🛠️ **Projects:**
 - [Linux Systems Administration & Networking Lab](https://github.com/Nypal/linux-networking-lab) – DNS, DHCP, VLANs, Cisco, OSI troubleshooting
@@ -13,8 +12,9 @@ I am passionate about technology, securing systems, and solving complex challeng
 - [Basics of Penetration Testing](https://github.com/Nypal/basics-of-Penetration-Testing/blob/main/README.md) – Nmap, FTP, SMB, RDP, MongoDB
 
 🎯 **Certifications:**
-- CompTIA Security+
-- Linux Essentials
+- CompTIA A+
+- ISC2 Certified in Cybersecurity (CC)
+- NDG Linux Essentials (Cisco)
 - Introduction to Cybersecurity
 
 📫 **Find Me Here:**
