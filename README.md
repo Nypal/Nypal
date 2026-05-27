@@ -8,12 +8,9 @@ I am passionate about technology, securing systems, and solving complex challeng
 - Python for automation and security tools
 
 🛠️ **Projects:**
-- [My Cybersecurity Portfolio](https://github.com/Nypal/Ketmanto-Cybersecurity-Portfolio) – Hands-on projects with threat analysis, vulnerability detection, and Linux tools.
-- [Automation Scripts](https://github.com/Nypal/alphie) – Automating security tasks using Python.
-- [Basics of penetration testing](https://github.com/Nypal/basics-of-Penetration-Testing/blob/main/README.md) - See how i am connecting FTP, SMB, Telnet, Rsync and RDP anonymously.
-See how i use Nmap to identify open ports.
-how i am connected to a MongoDB server.
-- [AI voice reading website](https://github.com/Nypal/ai-reader) – help student to read text.
+- [Linux Systems Administration & Networking Lab](https://github.com/Nypal/linux-networking-lab) – DNS, DHCP, VLANs, Cisco, OSI troubleshooting
+- [Infrastructure Networking & High-Availability Support Lab](https://github.com/Nypal/infrastructure-support-lab) – Active Directory, ServiceNow, Windows Server, 95% SLA
+- [Basics of Penetration Testing](https://github.com/Nypal/basics-of-Penetration-Testing/blob/main/README.md) – Nmap, FTP, SMB, RDP, MongoDB
 
 🎯 **Certifications:**
 - CompTIA Security+
